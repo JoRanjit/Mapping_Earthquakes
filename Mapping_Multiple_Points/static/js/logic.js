@@ -1,7 +1,6 @@
 // Get data from cities.js
 let cityData = cities;
 
-
 // Create the map object with a center and zoom level.
 // let map = L.map('mapID').setView([40.7,-94.5],4);
 
